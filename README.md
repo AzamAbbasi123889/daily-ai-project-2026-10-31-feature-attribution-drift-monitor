@@ -1,0 +1,2 @@
+# daily-ai-project-2026-10-31-feature-attribution-drift-monitor
+A FastAPI‑based SaaS that ingests production predictions, records per‑instance SHAP explanations, detects drift in feature importance over time, visualizes trends, and alerts engineers with root‑cause suggestions. The MVP stores data in Postgres + pgvector, uses MLflow for model versioning, and runs in Docker for easy deployment. Build-it-yourself 
